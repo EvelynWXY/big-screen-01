@@ -162,9 +162,9 @@
         > .main {
           flex: 1;
         }
-        .legend {
-          @extend %legend;
-        }
+      }
+      .legend {
+        @extend %legend;
       }
     }
     .年龄段 {
